@@ -9,7 +9,7 @@ title: Student Blog
 #### By Xavier Thompson
 
 ## Freeform Picture
-![freeform picture]({{site.baseurl}}/images/freeform.png){:height="500px"}
+![freeform picture]({{site.baseurl}}/images/freeform.png){:height="400px"}
 
 This is my freeform picture, comprised of 6 images, representing different aspects of my life. The first half represents parts of my identity as an individual, while the second half is focused on the impact technology has had on my life. With these images, I shall tell the story they behold.
 
