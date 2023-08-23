@@ -10,8 +10,8 @@ title: Student Blog
 #### **By Xavier Thompson**
 
 ### Table of Contents
-1. Freeform Picture
-2. Journey into Technology
+1. [Freeform Picture](#freeform-picture)
+2. [Journey into Technology](#journey-into-technology)
 
 ## Freeform Picture
 <img align="center" style="border:10px outset silver;" src="{{site.baseurl}}/images/freeform.png" height="400px" alt="freeform"/>
