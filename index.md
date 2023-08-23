@@ -33,6 +33,8 @@ My introduction into technology isn't an interesting one. I merely found compute
 ### Phase 2 (2020-2021)
 In phase 1, something that I didn't mention was in that time I heard of a group called CyberAegis who competed in a national competition called CyberPatriot. They just so happened to be consistent national champions that were made of students in Oak Valley, Design39, and Del Norte. At that time, I kept it in mind but couldn't get into the group due to still being in elementary school. Once I got into 6th grade, I signed up for the group. CyberAegis has a process in which new students must go through what they call the 'Farm League.' Here, the basics of the competition is laid out, and once such information is shared, we are given virtual images to secure. All of this is meant to prepare us for the *Tryouts* where around half of the students are selected to join the actual group. Well, to put it bluntly, I didn't didn't get as my scores were less than impressive. At that time, I didn't put in much work and thought I could get into the group without trying. Well I was proven wrong and would have to wait a year till I could get another chance.
 
+![cyberaegis logo]({{site.baseurl}}/images/cyberaegis_logo.jpg){:height="300px"}
+
 A year later, in 2021, I was given another opportunity. This time, I made sure to make use of such. Barely, and I mean just barely, I made it on the team. This, right here, was a turning point not only in terms of my path in technology, but the path of my life. If I were to choose any defining moment in my life, this would be it.
 
 ### Phase 3 (2022-Present)
