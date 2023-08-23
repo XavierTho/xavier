@@ -3,13 +3,19 @@ layout: default
 title: Student Blog
 ---
 
-{% include nav_home.html %}
+
 
 # Blog
-#### By Xavier Thompson
+
+#### **By Xavier Thompson**
+
+### Table of Contents
+1. Freeform Picture
+2. Journey into Technology
 
 ## Freeform Picture
-![freeform picture]({{site.baseurl}}/images/freeform.png){:height="400px"}
+<img align="center" style="border:10px outset silver;" src="{{site.baseurl}}/images/freeform.png" height="400px" alt="freeform"/>
+
 
 This is my freeform picture, comprised of 6 images, representing different aspects of my life. The first half represents parts of my identity as an individual, while the second half is focused on the impact technology has had on my life. With these images, I shall tell the story they behold.
 
@@ -45,8 +51,3 @@ My Team:
 - Networking: Jacob Wu
 - Linux: Dhyan Soni & Aditya Katre
 - Windows: Mihir Bapat, Kanhay Patil, & Xavier Thompson
-
-
-
-
-![quantum computer]({{site.baseurl}}/images/quantum_computer.png){:height="500px"}
