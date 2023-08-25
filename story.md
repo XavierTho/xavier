@@ -3,7 +3,7 @@ layout: default
 title: Tech Stories
 ---
 
-# Biography & More
+# Tech Stories
 
 #### **By Xavier Thompson**
 
