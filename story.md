@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Stories
+title: Tech Stories
 ---
 
-# Stories About Technology & Myself
+# Biography & More
 
 #### **By Xavier Thompson**
 
 ### Table of Contents
 1. [Journey into Technology](#journey-into-technology)
+2. [Gold Coast STEM Convention](#gold-coast-stem-convention)
 
 ## Journey into Technology
 
@@ -52,3 +53,8 @@ The semifinals was what counted the most. It would be the scores on this round w
 The work we did through the months to lead up to this would have to be enough, or we'd be left empty-handed from all that we had done to get where we were in the first place. And so the day came. Tensions were high, it was all or nothing now. And so, we got to work, to do what had practiced for months. Our final score was unknown. The network portion had to be manually graded, so till then we wouldn't know our full score. Our CCS (Windows & Linux combined) was 128, CyberVitalis had a CCS score of 162, the OtherHalf had the second highest CCS score (numbers currently unknown), and our main competitors, CyberAegis Astra, had a CCS score of 119. An 8 point difference between us and them. So, everything depended on the scores we got for Networking, which would be released a week for the day.
 
 Then finally the day came. The most momentous of moments! Did we or did we not make it to the coveted nationals finals? ... WE DID! We had proved triumphant in our efforts and earned a path straight to Washington DC for the finales. The final score between us and CyberAegis Astra was 147.14 to 141.57. A minimal difference. If they were to have found 1 or 2 more vulnerabilities than us, it would've been them at nationals, and yet, it was us. We had done it.
+
+
+
+
+## Gold Coast STEM Convention
