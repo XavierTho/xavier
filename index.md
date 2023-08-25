@@ -11,7 +11,7 @@ title: Student Blog
 
 ### Table of Contents
 1. [Freeform Picture](#freeform-picture)
-2. [Weekly Schedule](#weekly-schedule)
+2. [Weekly Schedule](#weekly-summary)
 
 ## Freeform Picture
 <img align="center" style="border:10px outset silver;" src="{{site.baseurl}}/images/freeform.png" height="400px" alt="freeform"/>
@@ -25,12 +25,10 @@ Besides such information, I have a passion for computers, and such can be shown 
 
 ---
 
-## Weekly Schedule
+## Weekly Summary
 
-| Week | Topic             | Journal                                                       |
-|------|-------------------|---------------------------------------------------------------|
-| 0    | Github & Tools    | Downloaded tools necessary for CSSE and set up a github page. |
-| 1    | Markdown Page     |                                                               |
-| 2    | Build a Project   |                                                               |
-| 3    | Javascript Input  |                                                               |
-| 4    | Javascript Output |                                                               |
+| **Week** |    **Topic**    |                                                                                                                             **Summary**                                                                                                                            |
+|:--------:|:---------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 0        | Github & Tools  | Downloaded tools necessary for CSSE and set up a github page. The whole process, at least for myself didn't serve to be much of an issue thanks to a bit of previous experience. Most issues I had were solved within 10-30 minutes after a bit of investigation.  |
+| 1        | Markdown Page   | We designed our websites to contain content and to have an aesthetically-pleasing look. We did this by filling our websites with pictures about us and talking about ourselves from there. We also tested with different themes and changed the css to our liking. |
+| 2        | Build a Project |                                                                                                                            _Next Week!_                                                                                                                            |                                                                                                                                                                                                                                                    |                                                |
