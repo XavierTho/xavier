@@ -4,14 +4,7 @@ title: Home
 ---
 
 
-
-# Home
-
 #### **By Xavier Thompson**
-
-### Table of Contents
-1. [Freeform Picture](#freeform-picture)
-2. [Weekly Schedule](#weekly-summary)
 
 ## Freeform Picture
 <img align="center" style="border:10px outset silver;" src="{{site.baseurl}}/images/freeform.png" height="300px" alt="freeform"/>
@@ -24,4 +17,4 @@ I am from San Diego, California, and have been raised here for the entirety of m
 
 Besides such information, I have a passion for computers, and such can be shown in my participation in a competition called CyberPatriot. I have been competing in this competition, under the group CyberAegis for a little over a year now, and I find much joy in it. In the competition, I specialize as a Windows main, meaning I'm tasked in securing Windows machines and critical services that are used in Windows. In CyberAegis, I also get to compete in other competitions such as the SGC and SoCal Cyber Cup, all in which helps me better understand cybersecurity and technology as a whole.
 
----                                                                                                                          |
+---
