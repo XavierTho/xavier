@@ -2,7 +2,7 @@
 layout: post
 title: Game of Life
 description: A remix of Conway's game of life using timer, onclick and algorithms.  
-type: hacks
+type: tangibles
 courses: { week: {week: 2} }
 ---
 <style>
