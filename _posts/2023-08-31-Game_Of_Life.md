@@ -11,8 +11,8 @@ courses: { week: {week: 2} }
     }
 
     .cell {
-    background-color: royalblue;
-    border: 1px solid black;
+    background-color: black;
+    border: 1px solid grey;
     }
 </style>
 
@@ -87,9 +87,9 @@ function updateContainer() {
     arr.forEach((val, c) => {
         let n = r*GRID_SIZE + c;
         if(val === 1) {
-        document.getElementById("cell-"+n).style['background-color'] = 'yellow';
+        document.getElementById("cell-"+n).style['background-color'] = 'lime';
         }else {
-        document.getElementById("cell-"+n).style['background-color'] = 'royalblue'
+        document.getElementById("cell-"+n).style['background-color'] = 'black'
         }
     });
     })
