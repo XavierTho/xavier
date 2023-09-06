@@ -1,3 +1,12 @@
+---
+toc: false
+comments: false
+layout: post
+title: Journey into Technology
+type: tangibles
+courses: { week: {week: 0} }
+---
+
 ## Journey into Technology
 
 ### Phase 1 (2017-2020)
