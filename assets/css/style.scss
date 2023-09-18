@@ -82,10 +82,12 @@
   .calculator-clear {
     @extend .button;
     background-color: #ff9933;
+    color: #ffffff;
   }
   
   /* styling for the calculator equals button */
   .calculator-equals {
     @extend .button;
     background-color: #cc0000;
+    color: #ffffff;
   }
