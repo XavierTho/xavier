@@ -15,16 +15,6 @@ Hack 2: Add the common math operation that is missing from calculator
 Hack 3: Implement 1 number operation (ie SQRT) 
 -->
 
-<!-- 
-HTML implementation of the calculator. 
--->
-
-<!-- 
-    Style and Action are aligned with HRML class definitions
-    style.css contains majority of style definition (number, operation, clear, and equals)
-    - The div calculator-container sets 4 elements to a row
-    Background is credited to Vanta JS and is implemented at bottom of this page
--->
 <style>
   .calculator-output {
     /* calulator output 
@@ -70,6 +60,11 @@ HTML implementation of the calculator.
       <div class="calculator-clear">C</div>
       <div class="calculator-equals">=</div>
       <div class="calculator-operation">/</div>
+      <!--row 5-->
+      <div class="calculator-operation">√</div>
+      <div class="calculator-operation">a<sup>2</sup></div>
+      <div class="calculator-operation">π</div>
+      <div class="calculator-number">.</div>
   </div>
 </div>
 
@@ -152,6 +147,15 @@ function calculate (first, second) { // function to calculate the result of the 
             break;
         default: 
             break;
+        case "√":
+          result = Math.sqrt(first);
+          break;
+        case "a2":
+          result = first * first;
+          break;
+        case "π":
+          result = first * Math.PI;
+          break;
     }
     return result;
 }
@@ -183,34 +187,4 @@ function clearCalc () { // clears calculator
     output.innerHTML = "0";
     nextReady = true;
 }
-</script>
-
-<!-- 
-Vanta animations just for fun, load JS onto the page
--->
-<script src="/teacher/assets/js/three.r119.min.js"></script>
-<script src="/teacher/assets/js/vanta.halo.min.js"></script>
-<script src="/teacher/assets/js/vanta.birds.min.js"></script>
-<script src="/teacher/assets/js/vanta.net.min.js"></script>
-<script src="/teacher/assets/js/vanta.rings.min.js"></script>
-
-<script>
-// setup vanta scripts as functions
-var vantaInstances = {
-  halo: VANTA.HALO,
-  birds: VANTA.BIRDS,
-  net: VANTA.NET,
-  rings: VANTA.RINGS
-};
-
-// obtain a random vanta function
-var vantaInstance = vantaInstances[Object.keys(vantaInstances)[Math.floor(Math.random() * Object.keys(vantaInstances).length)]];
-
-// run the animation
-vantaInstance({
-  el: "#animation",
-  mouseControls: true,
-  touchControls: true,
-  gyroControls: false
-});
 </script>
