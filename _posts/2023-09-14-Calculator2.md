@@ -62,7 +62,7 @@ Hack 3: Implement 1 number operation (ie SQRT)
       <div class="calculator-operation">/</div>
       <!--row 5-->
       <div class="calculator-operation">√</div>
-      <div class="calculator-operation">a<sup>2</sup></div>
+      <div class="calculator-operation">^</div>
       <div class="calculator-operation">π</div>
       <div class="calculator-number">.</div>
   </div>
@@ -117,7 +117,7 @@ operations.forEach(button => {
 // Operator action
 function operation (choice) { // function to input operations into the calculator
     if (firstNumber == null) { // once the operation is chosen, the displayed number is stored into the variable firstNumber
-        firstNumber = parseInt(output.innerHTML);
+        firstNumber = parseFloat(output.innerHTML);
         nextReady = true;
         operator = choice;
         return; // exits function
@@ -150,8 +150,8 @@ function calculate (first, second) { // function to calculate the result of the 
         case "√":
           result = Math.sqrt(first);
           break;
-        case "a2":
-          result = first * first;
+        case "^":
+          result = Math.pow(first,second);
           break;
         case "π":
           result = first * Math.PI;
