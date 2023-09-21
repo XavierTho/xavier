@@ -4,13 +4,15 @@
             <img id="horseSprite" src="{{site.baseurl}}/images/horse.png">
         </canvas>
         <div id="controls"> <!--basic radio buttons which can be used to check whether each individual animaiton works -->
-            <input type="radio" name="animation" id="idle" checked>
-            <label for="idle">Running</label><br>
-            <input type="radio" name="animation" id="barking">
-            <label for="barking">Stamping</label><br>
+            <input type="radio" name="animation" id="running" checked>
+            <label for="running">Running</label><br>
+            <input type="radio" name="animation" id="stamping">
+            <label for="stamping">Stamping</label><br>
         </div>
-    </div>-
+    </div>
 </body>
+
+> Deer by Calciumtrice, usable under Creative Commons Attribution 3.0 license.
 
 <script>
     window.addEventListener('load', function () {
@@ -20,12 +22,12 @@
         const SPRITE_HEIGHT = 84; // height of window
         const SCALE_FACTOR = 2; // Defines size of Window
         const FRAME_LIMIT = 6; // Number sprites in a row
-        const FRAME_RATE = 30;
+        const FRAME_RATE = 30; // FPS
 
         canvas.width = SPRITE_WIDTH * SCALE_FACTOR;
         canvas.height = SPRITE_HEIGHT * SCALE_FACTOR;
 
-        class Dog {
+        class Horse {
             constructor() {
                 this.image = document.getElementById("horseSprite");
                 this.spriteWidth = SPRITE_WIDTH;
@@ -64,7 +66,7 @@
             }
         }
 
-        const dog = new Dog();
+        const horse = new Horse();
 
         // Add event listener to the parent container for event delegation
         const controls = document.getElementById('controls');
@@ -72,14 +74,11 @@
             if (event.target.tagName === 'INPUT') {
                 const selectedAnimation = event.target.id;
                 switch (selectedAnimation) {
-                    case 'idle':
-                        dog.frameY = 0;
+                    case 'running':
+                        horse.frameY = 0;
                         break;
-                    case 'barking':
-                        dog.frameY = 1;
-                        break;
-                    case 'walking':
-                        dog.frameY = 2;
+                    case 'stamping':
+                        horse.frameY = 1;
                         break;
                     default:
                         break;
@@ -90,8 +89,8 @@
         function animate() {
     setTimeout(function () {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
-        dog.draw(ctx);
-        dog.update();
+        horse.draw(ctx);
+        horse.update();
         requestAnimationFrame(animate);
     }, 1000 / FRAME_RATE); // Calculate the delay based on desired frame rate
 }
