@@ -20,3 +20,7 @@ Reasoning: I'm assuming Peer Grade means I'm grading my parnter, Daniel. I'm giv
 - **Team Grade: 3/5**
 
 Reasoning: Our team, as a whole, needs signficant improvement if we are to succeed in this class. What I will say is that it's of much frustration when individuals aren't focused or putting in the necessary effort they should as members of this team. Such examples includes reading two classes in a row instead of spending all that time improving unfinished code and just not being present at all in the class and doing things for other classes or just something else entirely. This is why our team grade is so low. It's not sustainable to continue such practices and we must improve immediately.
+
+### Code Review!
+Reviewing Justin's code: 
+- Justin's code respectfully works and is organized in the approriate manner. However it lacks a certain level of creativity. The code has no character and it isn't necessarily interesting to read. What I would recommend for Justin in the future is to pick an interesting theme in which he can base his code off rather than two random hyperlinks about a chinese story and song.
