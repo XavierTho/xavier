@@ -9,7 +9,9 @@ courses: { week: {week: 6} }
 
 - **Self Grade: 5/5**
 
-Reasoning: I did the most work in my group, doing a total of 3 sections for the web programming test, while others in my group did 1 section. I also managed and oversaw the finalization of everyone's repository, by constant reminders in Slack to publish their code and then add and review each other's code in order to do as well as possible for the test. Additionally, I spent a lot of time on this test, time in which I needed for other pressing responsibilites but due to a lack of work being done, I took it upon myself to do what I could to get the best possible grade for my team.
+Reasoning: I did the most work in my group, doing a total of 4 sections for the web programming test, while others in my group did 1 or 0 sections (the reason for this is some people couldn't finish to the point of the deadline). I also managed and oversaw the finalization of everyone's repository, by constant reminders in Slack to publish their code and then add and review each other's code in order to do as well as possible for the test. Additionally, I spent a lot of time on this test, time in which I needed for other pressing responsibilites but due to a lack of work being done, I took it upon myself to do what I could to get the best possible grade for my team.
+
+Also, for the sections that were managed by others in my group, it was not made without major revisions made by myself to add much more quality to the section.
 
 - **Peer Grade: 4.8/5**
 
