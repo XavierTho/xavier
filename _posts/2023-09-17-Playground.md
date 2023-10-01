@@ -102,4 +102,15 @@ courses: { week: {week: 4} }
    console.log(numbers)
    
 
+ let x = 0;
+ while(x < 100) {
+  console.log("The number is " + x);
+  x += 1;
+ }
+
+// Simplifed Version
+ for (x = 0; x < 100; x++) {
+    console.log("The number is " + x);
+ }
+
 </script>
