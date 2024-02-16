@@ -3,7 +3,7 @@ layout: game
 title: Portfolio
 comments: false
 type: tangibles
-courses: { week: {week: 11} }
+courses: { week: {week: 23} }
 ---
 
 <style>
@@ -55,7 +55,7 @@ Code, above all, is not a means of communication between us and computers, but r
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; margin-bottom: 30px; column-gap: 20px; row-gap: 40px;">
 
-  <!--Container 1-->
+  <!--Container 1 (FIRST BLOG)-->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -69,7 +69,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 2-->
+  <!--Container 2 (CSS MAGIC)-->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -83,7 +83,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 3-->
+  <!--Container 3 (SNAKE) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -97,7 +97,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 4-->
+  <!--Container 4 (CONWAY GAME OF LIFE) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -111,7 +111,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 5-->
+  <!--Container 5 (TRANSLATOR) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -125,7 +125,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 6-->
+  <!--Container 6 (CALCULATOR) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -139,7 +139,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 7-->
+  <!--Container 7 (GAME) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -153,7 +153,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 8-->
+  <!--Container 8 (LOCAL STORAGE) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -167,7 +167,7 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 11-->
+  <!--Container 9 (COLLISIONS) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -181,21 +181,21 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 10-->
+  <!--Container 10 (RANDOMIZATION) -->
   <div class="container">
     <!--Image-->
     <div class="image">
-      <a href="{{site.baseurl}}//blog/individual-review-game" target="_blank">
-        <img src="{{site.baseurl}}/images/Portfolio/review.avif">
+      <a href="{{site.baseurl}}//2023/10/11/Randomization_IPYNB_2_.html" target="_blank">
+        <img src="{{site.baseurl}}/images/Portfolio/coin-flip.jpg">
       </a>
     </div>
         <!--Project Information-->
         <div class="project-information">
-          <p class="project-name">Individual Review</p>
+          <p class="project-name">Randomization</p>
         </div>
   </div>
 
-  <!--Container 11-->
+  <!--Container 11 (GOOMBAS) -->
   <div class="container">
     <!--Image-->
     <div class="image">
@@ -209,11 +209,11 @@ Code, above all, is not a means of communication between us and computers, but r
         </div>
   </div>
 
-  <!--Container 12-->
+  <!--Container 12 (???) -->
   <div class="container">
     <!--Image-->
     <div class="image">
-      <a href="https://nighthawkcoders.github.io/game_levels_mp/2024/01/08/CSSE-oop-game-levels2.html" target="_blank">
+      <a href="https://en.wikipedia.org/wiki/Question_mark" target="_blank">
         <img src="{{site.baseurl}}/images/Portfolio/question_mark.jpg">
       </a>
     </div>
